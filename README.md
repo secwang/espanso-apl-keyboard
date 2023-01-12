@@ -6,7 +6,7 @@ APL symbol cross platform.
 By expanding the text without adding a keyboard to the system, it is easier to install.  
 Install keyboard on many system is annoying.  
 
-Use Dyalog apl RIDE style ` prefix.
+Use Dyalog apl [RIDE](https://github.com/Dyalog/ride) style ` prefix.
 
 # install
 copy base.yml to your espanso config.  
