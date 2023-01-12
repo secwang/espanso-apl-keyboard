@@ -1,6 +1,6 @@
 # espanso-apl-keyboard
 
-use (espanso)[https://espanso.org/] to convenient input 
+use [espanso](https://espanso.org/) to convenient input 
 APL symbol cross platform.
 
 By expanding the text without adding a keyboard to the system, it is easier to install.
